@@ -1,0 +1,16 @@
+{
+  "db_config": {
+    "host": "localhost",
+    "user": "user",
+    "password": "password",
+    "database": "database"
+  },
+  "api": {
+    "url": "https://site.com/",
+    "token": "token",
+    "username": "username",
+    "password": "password"
+	},
+  "bot_token": "123456789:AABcdefGhIklM91NoP_qRst123",
+  "admins": [0000001, 0000002]
+}
